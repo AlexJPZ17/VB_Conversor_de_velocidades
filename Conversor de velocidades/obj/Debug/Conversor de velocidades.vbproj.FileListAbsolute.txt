@@ -1,0 +1,9 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Conversor de velocidades\Conversor de velocidades\bin\Debug\Conversor de velocidades.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Conversor de velocidades\Conversor de velocidades\bin\Debug\Conversor de velocidades.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Conversor de velocidades\Conversor de velocidades\bin\Debug\Conversor de velocidades.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Conversor de velocidades\Conversor de velocidades\bin\Debug\Conversor de velocidades.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Conversor de velocidades\Conversor de velocidades\obj\Debug\Conversor_de_velocidades.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Conversor de velocidades\Conversor de velocidades\obj\Debug\Conversor de velocidades.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Conversor de velocidades\Conversor de velocidades\obj\Debug\Conversor de velocidades.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Conversor de velocidades\Conversor de velocidades\obj\Debug\Conversor de velocidades.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Conversor de velocidades\Conversor de velocidades\obj\Debug\Conversor de velocidades.pdb
